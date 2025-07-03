@@ -43,3 +43,27 @@ Soy un desarrollador de software con sólida experiencia en **Python** y **React
 🎨 Frontend:       React · TailwindCSS · Vite · Zustand
 🧰 DevOps:         Docker · GitHub Actions · Nginx · VPS
 🧠 IA & Datos:     LangChain · Chroma · Pandas · NumPy
+```
+
+---
+
+### 🌱 Actualmente aprendiendo
+
+- Arquitecturas escalables en la nube (AWS, GCP)
+- Integraciones con WhatsApp y APIs externas
+- Machine Learning y NLP aplicado a documentos
+
+---
+
+### 📫 Cómo contactarme
+
+- 💼 [LinkedIn](https://linkedin.com/in/tu_usuario)
+- 🐦 [Twitter/X](https://twitter.com/tu_usuario)
+- 📧 Email: tuemail@example.com
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&layout=compact&theme=radical" />
+</p>
