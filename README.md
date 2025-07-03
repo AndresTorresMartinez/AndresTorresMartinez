@@ -24,13 +24,13 @@ Soy un desarrollador de software con sólida experiencia en **Python** y **React
 
 ### 📌 Proyectos destacados
 
-- 🔍 **[Buscador IA con RAG y Ollama](https://github.com/tu_usuario/proyecto-rag)**  
+- 🔍 **[Buscador IA con RAG y Ollama](https://github.com/AndresTorresMartinez/proyecto-rag)**  
   Sistema de búsqueda inteligente sobre documentos usando embeddings y recuperación aumentada.
 
-- 🐾 **[Veterinaria Web App](https://github.com/tu_usuario/vetapp)**  
+- 🐾 **[Veterinaria Web App](https://github.com/AndresTorresMartinez/vetapp)**  
   Aplicación web para gestión de pacientes veterinarios con React y Firebase.
 
-- 📦 **[API REST con FastAPI y PostgreSQL](https://github.com/tu_usuario/api-fastapi)**  
+- 📦 **[API REST con FastAPI y PostgreSQL](https://github.com/AndresTorresMartinez/api-fastapi)**  
   API moderna y segura, lista para producción.
 
 ---
@@ -57,13 +57,11 @@ Soy un desarrollador de software con sólida experiencia en **Python** y **React
 
 ### 📫 Cómo contactarme
 
-- 💼 [LinkedIn](https://linkedin.com/in/tu_usuario)
-- 🐦 [Twitter/X](https://twitter.com/tu_usuario)
-- 📧 Email: tuemail@example.com
+- 💼 [LinkedIn](https://linkedin.com/in/andrés-camilo-torres-martínez-1368b8107)
+- 📧 Email: ctorres437@hotmail.com
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresTorresMartinez&layout=compact&theme=radical" />
 </p>
